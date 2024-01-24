@@ -1,2 +1,2 @@
-# is537
-For UIUC class is537
+# IS537
+For UIUC class IS537
